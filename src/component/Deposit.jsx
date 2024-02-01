@@ -7,10 +7,10 @@ export default function Deposit(){
         </div>
         <div className="border border-gray-500 p-4 rounded-md bg-white mx-80 py-16 border-5 boxshadow">
   <ul className=" flex items-center  -mt-12 justify-center md:justify-evenly  border-2 border-gray-700 rounded-md shadow-black p-3 px-32">
-    <li><a href="">Fixed Deposit</a></li>
-    <li><a href="">Stock Market</a></li>
-    <li><a href="">Gold</a></li>
-    <li><a href="">Bonds</a></li>
+    <li><a href="/valid-link">Fixed Deposit</a></li>
+    <li><a href="/valid-link">Stock Market</a></li>
+    <li><a href="/valid-link">Gold</a></li>
+    <li><a href="/valid-link">Bonds</a></li>
   </ul>
   <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-5 pt-4 ">
     <div className=" w-2/4 ">
