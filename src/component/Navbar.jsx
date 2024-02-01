@@ -8,10 +8,10 @@ const Navbar = () => {
           RIO<span className="text-[#00df9a] text-border-5">FIN</span>
         </h1>
         <ul className="flex justify-center md:justify-start space-x-4">
-          <li className="p-2 md:p-4  hover:text-green-500"><a href="#">Why Riofin</a> </li>
-          <li className="p-2 md:p-4 hover:text-green-500"><a href="#">Opportunities</a> </li>
-          <li className="p-2 md:p-4 hover:text-green-500"><a href="#">Founders</a> </li>
-          <li className="p-2 md:p-4 hover:text-green-500"><a href="#"> Learn</a></li>
+          <li className="p-2 md:p-4  hover:text-green-500"><a href="/valid-link">Why Riofin</a> </li>
+          <li className="p-2 md:p-4 hover:text-green-500"><a href="/valid-link">Opportunities</a> </li>
+          <li className="p-2 md:p-4 hover:text-green-500"><a href="/valid-link">Founders</a> </li>
+          <li className="p-2 md:p-4 hover:text-green-500"><a href="/valid-link"> Learn</a></li>
         </ul>
         <div className="flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-4">
           <button className="bg-[#00df9a] w-40    rounded-md font-medium p-4 text-black hover:bg-blue-800 hover:text-white">
